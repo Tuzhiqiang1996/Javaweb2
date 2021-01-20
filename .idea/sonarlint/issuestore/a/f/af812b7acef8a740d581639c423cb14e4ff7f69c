@@ -1,0 +1,15 @@
+
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(á÷ÄÄüÿÿÿÿ8üß¨ôñ.
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(¶ÏÏÃ8üß¨ôñ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ì¨şÿÿÿÿ8üß¨ôñ.
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(á÷ÄÄüÿÿÿÿ8üß¨ôñ.
+K
+java:S2115")Add password protection to this database.(ÌÕû±ıÿÿÿÿ8üß¨ôñ.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(îí£øÿÿÿÿ8üß¨ôñ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹¡è«ÿÿÿÿÿ8üß¨ôñ.
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(¶ÏÏÃ8üß¨ôñ.
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(‡Ğõ‚üÿÿÿÿ8üß¨ôñ.
+Z	java:S106["9Replace this use of System.out or System.err by a logger.(„ªîıÿÿÿÿ8üß¨ôñ.
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(õšàÛ8üß¨ôñ.
+X	java:S125W"<This block of commented-out lines of code should be removed.(øê€©8üß¨ôñ.

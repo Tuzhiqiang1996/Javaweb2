@@ -1,0 +1,8 @@
+
+}
+java:S1989"`Handle the following exceptions that could be thrown by "doPost": ServletException, IOException.(‘›ώα8μί¨τρ.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(λΡΩΡϋÿÿÿÿ8μί¨τρ.
+~
+java:S1989%"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(¥½Φ8μί¨τρ.
+p
+java:S1989'"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ΩΤεά8μί¨τρ.
